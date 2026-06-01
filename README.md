@@ -21,11 +21,11 @@ El dashboard final fue desarrollado en Tableau Public y permite explorar los pri
 
 ### Overview ejecutivo
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/Overview.png)
 
 ### Detalle por producto
 
-![Dashboard Detalle](images/dashboard_detalle.png)
+![Dashboard Detalle](images/Detalle.png)
 
 ---
 

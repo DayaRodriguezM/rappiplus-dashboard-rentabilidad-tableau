@@ -13,7 +13,7 @@ El dashboard final fue desarrollado en Tableau Public y permite explorar los pri
 * **Overview ejecutivo:** resumen de revenue, profit neto, margen de rentabilidad, costos, inversión en marketing y ticket promedio.
 * **Detalle por producto:** exploración de unidades vendidas, revenue, costos y profit operativo, con filtros dinámicos y drill-through por producto.
 
-🔗 https://public.tableau.com/views/Proyecto_Final_Dayana_Rodriguez/Overview?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 [Ver dashboard interactivo en Tableau Public](https://public.tableau.com/views/Proyecto_Final_Dayana_Rodriguez/Overview?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -146,19 +146,6 @@ El dashboard incluye:
 * Filtros por mes, categoría, país y dispositivo.
 * Drill-through desde gráfico de producto hacia tabla de detalle.
 * Navegación entre vistas Overview y Detalle.
-
----
-
-## 📌 Principales KPIs del negocio
-
-| KPI                    | Resultado |
-| ---------------------- | --------: |
-| Revenue acumulado      |    $9.50M |
-| Profit neto            |    $2.84M |
-| Margen de rentabilidad |    29.87% |
-| Costo total            |    $3.79M |
-| Inversión en marketing |    $2.87M |
-| Ticket promedio        |      386 |
 
 ---
 
